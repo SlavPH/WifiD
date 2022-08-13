@@ -77,14 +77,7 @@ def main():
         main()
 
     elif option == "0":
-        sys.exit()
-
-    else:
-        try:
-            print(f"{red}Wrong option! try again!{reset}")
-            menu()
-        except Exception as e:
-            print(f"{red}{e}")  
+        sys.exit() 
 
 if __name__ == "__main__":
    main()
