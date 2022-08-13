@@ -1,13 +1,15 @@
 # Wifi D
-Easy wifi connector using nmcli                              
+>Easy wifi connector using nmcli                              
 
-# installation and usage
-1 : Make sure you have 'nmcli' installed on your machine             
-2 : pip3 install colorama            
-3 : python wifid.py               
+# Installation
+**[1]** Make sure you have `nmcli, git, python3, pip` installed on your machine`             
+**[2]** `git clone https://github.com/SlavPH/WifiD`            
+**[3]** `cd WifiD`                         
+**[4]** `chmod +x wifid.py`
+**[5]** `./wifid.py`                 
 
-# Social Media
-Telegram  : https://telegram.me/codelickers             
-Instagram : https://instagram.com/blyatcode               
+# Social Media       
+[Instagram](https://instagram.com/theslavph)                                                
+[Telegram](https://telegram.me/slavph)              
 
-# Thank you :)
+> Thanks 
