@@ -1,5 +1,5 @@
 # Wifi D
->Easy wifi connector using nmcli                              
+>Simple wifi menu using nmcli                              
 
 # Installation
 **[1]** Make sure you have `nmcli, git, python3, pip` installed on your machine                                            
