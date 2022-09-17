@@ -29,7 +29,7 @@ icon = (f"""
 {blue}  \     /|  ||  |  |  |{red}  |    `   \ 
 {blue}   \/\_/ |__||__|  |__|{red} /_______  / 
 {green}   Simple Wifi Manager{red}         \/ 
-{green}   By SlavPH
+{green}   By SlavPH & Aqaye Farazamehr
 {reset}
 """)
 
