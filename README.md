@@ -8,8 +8,4 @@
 **[4]** `chmod +x wifid.py`                         
 **[5]** `./wifid.py`                                       
 
-# Social Media       
-[Instagram](https://instagram.com/theslavph)                                                
-[Telegram](https://telegram.me/theslavph)              
-
 > Thanks 
